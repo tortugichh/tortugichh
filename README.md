@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi👋, My name is Daniyar<br>I'm Frontend Developer🧑‍💻<br>1-st year student at SDU🧑‍🎓
+Hi👋, My name is Daniyar<br>I'm Frontend Developer🧑‍💻<br>2-nd year student at SDU🧑‍🎓
 
 
 ## 🌐 Socials:
